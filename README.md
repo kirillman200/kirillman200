@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirillman200&label=Profile%20views&color=ffcdcd&style=flat" alt="kirillman200" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirillman200" alt="kirillman200" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [kmankovskyi.com](kmankovskyi.com)
 
@@ -99,6 +98,7 @@
   <summary>:zap: GitHub Stats</summary>
 
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirillman200" alt="kirillman200" /></a> </p>
  <br />
  &nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirillman200&show_icons=true&title_color=000000&bg_color=ffffff&hide_border=true&locale=en" alt="kirillman200" /></p>
