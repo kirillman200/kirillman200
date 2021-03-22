@@ -96,15 +96,16 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+ <br />
+ &nbsp;
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirillman200" alt="kirillman200" /></a> </p>
  <br />
  &nbsp;
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirillman200&show_icons=true&title_color=000000&bg_color=ffffff&hide_border=true&locale=en" alt="kirillman200" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirillman200&show_icons=true&title_color=000000&bg_color=ffffff&hide_border=true&locale=en" alt="kirillman200" /></p>
 <br/>
 &nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirillman200&theme=default" alt="kirillman200" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirillman200&theme=default" alt="kirillman200" /></p>
 
 
 </details>
