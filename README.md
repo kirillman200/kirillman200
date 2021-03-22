@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirillman200&label=Profile%20views&color=ffcdcd&style=flat" alt="kirillman200" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [kmankovskyi.com](kmankovskyi.com)
+- 👨‍💻 All of my projects are available at [kmankovskyi.com](https://kmankovskyi.com/)
 
 - 📫 How to reach me **kmankovskyi@gmail.com**
 
