@@ -98,7 +98,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirillman200&show_icons=true&title_color=000000&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="kirillman200" /></p>
+
  <br />
  &nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirillman200&show_icons=true&title_color=000000&bg_color=ffffff&hide_border=true&locale=en" alt="kirillman200" /></p>
