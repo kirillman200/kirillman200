@@ -18,11 +18,12 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15166304/kirillman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/15166304/kirillman" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kirill.mankovsky/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/kirill.mankovsky/" height="30" width="40" /></a>
 </p>
-
+<!--
 ### Spotify Playing 🎧
-
+-->
+<!--
 [<img src="https://what-is-playing.vercel.app/api/spotify" alt="Kiril Mankovskyi's Spotify Playing" width="350" />](https://open.spotify.com/user/62q24e568wa6qms1gz1hehnjp)
-
+-->
 
 
 <h3 align="left">Languages and Tools:</h3>
